@@ -1,0 +1,10 @@
+
+http://localhost:4000/api/auth generar token
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3VhcmlvIjp7ImlkIjoiNWVlZTVmNjkyYjVmOGQyMDM4N
+jlmMTY1In0sImlhdCI6MTU5MjY5NzMxNSwiZXhwIjoxNTkyNzAwOTE1fQ.G9GQWQqEGimrwEhFaS0OOcl2DkTYygv5fFf_JjxEJ1c"
+
+{
+   "email": "correo@correo.com",
+   "password": "123456"
+}
